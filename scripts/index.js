@@ -59,7 +59,7 @@ function initApp() {
 
     quiz = new Quiz(
         "Quizzler",
-        `Quizzler is a fun new way to practice, improve, and test your Javascript skills, and test yourself in a truly. During this assessment you will presented with a series of random Javascript questions with 70 seconds to answer as many as you can. Answer correctly and you will be awarded 100 points.`,
+        `Quizzler is a fun new way to practice, improve, and test your Javascript skills.`,
         70,
         questions);
 
