@@ -112,7 +112,7 @@ body {
 }
 
 .quiz-details__description {
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     color: #888;
     line-height: 24px;
     margin-bottom: 1rem;
@@ -332,7 +332,6 @@ body {
 
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 1rem auto 0;
     width: 50%;
 }
