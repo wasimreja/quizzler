@@ -100,7 +100,10 @@ body {
 
 
 /** Quiz Card */
-.quiz-details {
+.quiz-details img {
+    display: block;
+    margin: 1rem auto 0;
+    width: 50%;
 }
 
 .quiz-details__title {
@@ -157,9 +160,6 @@ body {
 
 
 /** Question Card */
-.questions-card {
-
-}
 
 .questions-card__progress-wrapper {
     display: flex;
@@ -303,6 +303,13 @@ body {
     flex-direction: column;
 }
 
+.result-card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .result-card__score {
     font-size: 3rem;
     color: #555;
@@ -330,8 +337,4 @@ body {
     width: 60%;
 }
 
-img {
-    display: block;
-    margin: 1rem auto 0;
-    width: 50%;
-}
+
