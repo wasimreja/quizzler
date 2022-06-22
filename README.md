@@ -8,6 +8,10 @@
 - CSS
 - JavaScript
 
-## Screenshot
+## Screenshots
 
-![Screenshot](https://user-images.githubusercontent.com/77227201/171272405-67066914-8aa0-471f-8247-3becabdbeda1.jpeg)
+<p float="left">
+<img src="https://imgur.com/zbYxWPC.png" height="450" />
+<img src="https://imgur.com/E83bkas.png" height="450" />
+<img src="https://imgur.com/rjSFgBi.png" height="450" />
+</p>
